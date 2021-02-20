@@ -1,2 +1,2 @@
-Este es mi Deploy hacia Github
+Este es mi Deploy hacia GitHub
 Este es mi segundo Deploy hacia GitHub
